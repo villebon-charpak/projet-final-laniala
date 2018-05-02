@@ -1,4 +1,4 @@
-# UE Codage : projet informatique
+﻿# UE Codage : projet informatique
 
 ## Description du projet
 Site qui rassemble plusieurs formes d'arts (écriture, image, son) en rapport à un thème choisit par l'utilisateur.
@@ -15,7 +15,7 @@ Site qui rassemble plusieurs formes d'arts (écriture, image, son) en rapport à
 L'indépassable---> Montagnes, cîmes, ciel etc...(=mots associés)
 Amour---> couple, sentiments, symbiose 
 Tristesse--> dépression, larmes, PLS
- Joie ---> sourire, bonheur, bonne nouvelle, espoir
+ Joie ---> sourire, bonheur, bonne nouvelle, espoir.
 Peur --> image qui font peur, etc etc....
 Motivations--> motivation pour le sport, les cours etc...
  Engager---> différentes idées politiques, différents mouvements sociaux, etc 
