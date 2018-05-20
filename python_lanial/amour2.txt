@@ -1,17 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN">
-
-<html>
-<head>
- <title> Amour </title>
-  <link rel="stylesheet" href="feuilledestyle.css">
-</head>
-<body>
-<h1> Amour </h1>
-<p><b>Ma nuit est un coeur qui bat</b><br>
+<b>Ma nuit est un coeur qui bat</b><br>
 <br>
-<i>Lettre de Fridha Khalo à son amant Diego Rivera</i><br>
+<i>Lettre de Fridha Khalo à son amant Diego Rivera<i/><br>
 <br>
-[12 septembre 1939]<br>
+[12 septembre 1939<br>
 <br>
 Ma nuit est comme un grand cœur qui bat<br>
 <br>
@@ -149,7 +140,7 @@ Le jour va bientôt se lever<br>
 <br>
 <br>
 <br>
-[Sans date]<br>
+[Sans date<br>
 <br>
 Mon Diego<br>
 <br>
@@ -165,7 +156,7 @@ Tu es toutes les combinaisons de nombres. La vie. Mon désir est de comprendre la
 <br>
 <br>
 <br>
-<b>Melan</b> <i>Elle le mérite</i><br>
+<b>Melan</b> <i>Elle le mérite</i<br>
 J'pensais pas qu'elle existais et encore moins qu'j'pourrais la trouver<br>
 Plus moyen d'me désister car aujourd'hui la vie me la prouvé<br>
 Elle est bien plus belle que dans les rêves..<br>
@@ -216,7 +207,7 @@ C'est la seule femme qui mérite que j'vive en ayant peur de la perdr<br>
 <br>
 <br>
 <br>
-<b>Paul Eluard </b> <i> Je t'aime </i><br>
+<b>Paul Eluard </b> <i> Je t'aime </i<br>
 Je t'aime pour toutes les femmes que je n'ai pas connues<br>
 Je t'aime pour tous les temps où je n'ai pas vécu<br>
 Pour l'odeur du grand large et l'odeur du pain chaud<br>
@@ -242,7 +233,7 @@ Tu es le grand soleil qui me monte à la tête<br>
 Quand je suis sûr de moi<br>
 <br>
 <br>
-<b>Charles Baudelaire </b> <i> A celle qui était trop gaie </i><br>
+<b>Charles Baudelaire </b> <i> A celle qui était trop gaie </i<br>
 Ta tête, ton geste, ton air<br>
 Sont beaux comme un beau paysage ;<br>
 Le rire joue en ton visage<br>
@@ -292,7 +283,7 @@ T'infuser mon venin, ma soeur <br>
 «Les gens parlent d'amour, pourquoi ils parlent d'amour <br>
 Qu'est c'qu'ils y connaissent, hein <br>
 Qu'est c'qu'ils y connaissent, rien <br>
-</p>
-</body>
-
-</html>
+<br>
+<br>
+<br>
+<br>
