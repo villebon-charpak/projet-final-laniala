@@ -15,9 +15,9 @@ h1 {
 ul.navbar li {
 	font-size: 20px;
 	background: white;
-	margin: 2em;
-	padding: 2em;
-	border-right: 0em solid black
+	margin: 12em;
+	padding: 4em;
+	border: 0.5em solid #e6e6e6
      }
 p {
 	font-family : Arial;
