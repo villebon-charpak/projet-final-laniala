@@ -1,28 +1,47 @@
-  body {
-      padding-left: 11em;
-      font-family: Georgia, "Arial",
-          Times, serif;
-    color: HoneyDew;
-    background-color: #8B0000}
- ul.navbar {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    position: absolute;
-    top: 2em;
-    left: 1em;
-    width: 9em }
-   h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
-    ul.navbar li {
-    background: white;
-    margin: 0.5em 0;
-    padding: 0.3em;
-    border-right: 1em solid black }
-  ul.navbar a {
+body {
+	padding-left: 11em;
+	font-family: Arial;
+	color: HoneyDew;
+	background-color: #8B0000}
+
+h1 {
+	font-family: Arial;
+	text-shadow: 3px 3px black;
+	text-align: center;
+	letter-spacing: 2px;
+	text-decoration: underline;
+}
+
+ul.navbar li {
+	font-size: 20px;
+	background: white;
+	margin: 2em;
+	padding: 2em;
+	border-right: 0em solid black
+     }
+p {
+	font-family : Arial;
+	font-size: 20px;
+}
+
+ul.navbar {
+	list-style-type: none;
+	padding: 10;
+	margin: 10;
+	position: absolute;
+	top: 15em;
+	left: 1em;
+	width: 50em }
+
+
+
+ul.navbar a {
     text-decoration: none }
+
+
   a:link {
     color: Salmon }
   a:visited {
     color: RosyBrown }
+
+
